@@ -1,0 +1,45 @@
+body {
+    background-image: url(so-white.png);    
+    color:black;
+    font-family: 'Inconsolata', monospace;
+    }
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #C4C0BE;
+    opacity: 0.60;
+    height: 50px;
+    align-content: center;
+    }
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+
+li {
+        display: inline;
+        align-content: center;
+        padding: 8px;
+    }
+
+a {
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+    }
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #C4C0BE;
+    opacity: 0.60;
+    padding: 10px;
+    }

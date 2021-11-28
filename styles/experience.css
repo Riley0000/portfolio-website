@@ -1,0 +1,31 @@
+.sidebar {
+    float: left;
+    width: 300px;
+    height: 1200px;
+    background-color: #FCF5F2;
+    padding: 20px;
+    line-height: 30px;
+}
+
+h1 {
+    align-content: right;
+    line-height: 15px;;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    padding-top:45px;
+    padding-left: 65px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #C4C0BE;
+    opacity: 0.60;
+    padding: 10px;
+}

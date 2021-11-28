@@ -1,8 +1,9 @@
 ---
 layout: layouts/pages.njk
 permalink: /about.html
+css: styles/about.css
 ---
-
+<link rel="stylesheet" href="styles/about.css">
 <img src="images/transfigure-team.jpg" alt="Transfigure Print Co. team, 2020"> 
 
 <div class="about">

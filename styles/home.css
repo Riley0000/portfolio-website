@@ -1,0 +1,25 @@
+h1 {
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-right: 35%;
+    text-align: center;
+    font-size: 3em;
+    color: #C72A00;
+    }
+
+h2 {
+    padding-left: 25%;
+    padding-right: 35%;
+    text-align: center;
+    font-size: 1.5em;
+    }
+
+.work {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 5%;
+    text-align: center;
+    line-height: 2em;
+    color: black;
+    }
+
