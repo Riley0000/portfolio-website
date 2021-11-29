@@ -9,8 +9,8 @@ css: styles/home.css
 <link rel="stylesheet" href="styles/home.css">
 
 <body>
-    <h1>Riley Collins</h1>
-    <h2>Writer. Strategist. Aspiring archivist and library professional.</h2>
+    <h1 class="home-h1">Riley Collins</h1>
+    <h2 class="home-h2">Writer. Strategist. Aspiring archivist and library professional.</h2>
     <p class="work"
         <a href="https://greatlakesbydesign.com/2021/09/27/freshwater-future/">Freshwater future |</a> 
         <a href="https://greatlakesbydesign.com/2021/09/02/x-house/">X house |</a>

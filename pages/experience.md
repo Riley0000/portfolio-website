@@ -7,20 +7,20 @@ css: styles/experience.css
 ---
 
 <div class="sidebar">
-
+<h1 class="experience-h1">
 Riley Collins
-=============
+</h1>
 
 Chicago, IL  
 [Contact](contact.html)
 
-Grand Valley State University - Grand Rapids, MI
+<p class="education">Grand Valley State University - Grand Rapids, MI
 
 B.A. Writing (Completed 2018)
 
 Continuing education: Grand Writing (Completed 2021)
 
-Prospective: MLIS + Archives specialization
+Prospective: MLIS + Archives specialization </p>
 
 Skills
 ------
