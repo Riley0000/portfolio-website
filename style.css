@@ -1,5 +1,5 @@
 body {
-    background-image: url(so-white.png);    
+    background-image: url(handmadepaper.png);    
     color:black;
     font-family: 'Inconsolata', monospace;
     }
@@ -17,7 +17,7 @@ body {
     
 .topnav-ul {
     list-style-type: none;
-    font-size: 20px;
+    font-size: 18px;
     margin: 0;
     }
 
@@ -31,6 +31,10 @@ a {
     color: black;
 }
 
+a:hover {
+        color: #C72A00;
+}
+
 a:link {
     text-decoration: none;
     }
@@ -39,7 +43,7 @@ a:link {
 .home-h1 {
         padding-top: 10%;
         padding-left: 25%;
-        padding-right: 35%;
+        padding-right: 25%;
         text-align: center;
         font-size: 3em;
         color: #C72A00;
@@ -47,7 +51,7 @@ a:link {
     
 .home-h2 {
         padding-left: 25%;
-        padding-right: 35%;
+        padding-right: 25%;
         text-align: center;
         font-size: 1.5em;
         }
@@ -55,7 +59,7 @@ a:link {
 .work {
         padding-left: 25%;
         padding-right: 25%;
-        padding-bottom: 5%;
+        padding-bottom: 15%;
         text-align: center;
         line-height: 2em;
         color: black;
@@ -69,26 +73,29 @@ img {
     padding-left: 15%;
 }
 
+.about-title {
+    color: #C72A00;
+    padding-left: 15%;
+}
+
 .about {
     width: 70%;
-    padding-top: 10%;
+    padding-top: 1%;
     padding-right: 15%;
     padding-left: 15%;
     padding-bottom: 5%;
 }
 
 /*experience*/
-.experience-body {
-    height: 800px;
-}
 .sidebar {
     float: left;
     width: 300px;
-    height: 1200px;
+    height: 1137px;
     background-color: #FCF5F2;
     padding-top: 40px;
+    padding-right: 15px;
     padding-left: 40px;
-    line-height: 30px;
+    line-height: 20px;
 }
 
 .experience-h1 {
@@ -105,6 +112,10 @@ img {
     width: 700px;
     padding-top:45px;
     padding-left: 65px;
+}
+
+.experience-tfpc {
+    padding-bottom: 100px;
 }
 
 .footer {

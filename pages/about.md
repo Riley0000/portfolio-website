@@ -3,9 +3,8 @@ layout: layouts/pages.njk
 permalink: /about.html
 css: styles/about.css
 ---
-<link rel="stylesheet" href="styles/about.css">
 <img src="images/transfigure-team.jpg" alt="Transfigure Print Co. team, 2020"> 
-
+<h2 class="about-title">About</h2>
 <div class="about">
     Always a contemplator and now an aspiring information professional, Riley takes every opportunity to savor pieces of the informational deluge we receive on a daily basis; to slow down and pick things apart with loving attention.
 
