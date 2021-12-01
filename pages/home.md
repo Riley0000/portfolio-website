@@ -6,8 +6,6 @@ permalink: /home.html
 css: styles/home.css
 ---
 
-
-
 <body>
     <h1 class="home-h1">Riley Collins</h1>
     <h2 class="home-h2">Writer. Strategist. Aspiring archivist and library professional.</h2>

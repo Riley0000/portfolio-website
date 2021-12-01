@@ -27,7 +27,7 @@ Skills
 **Copywriting + strategy + + + + +**
 
 *   Print and web copywriting and editing  
-*    Genres: Retail and ecommerce, architecture, food, industrial design
+*   Genres: Retail and ecommerce, architecture, food, industrial design
 
 **Interviewing + transcription + + +**
 
