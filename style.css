@@ -100,14 +100,14 @@ img {
     line-height: 20px;
 }
 
-@media screen and (max-width: 1000px) {
-    .container {
-        width: 300px;
-        padding-right: 5%;
+@media only screen and (max-width: 800px) {
+    .sidebar {
+        width: 250px;
+        padding-right: 25px;
     }
-    .experience-tfpc {
-        width: 300px;
-        padding-right: 5%;
+    .container {
+        flex: 250px;
+        padding-right: 25px;
     }
 }
 
@@ -132,16 +132,17 @@ img {
 }
 
 /*contact*/
+@media (max-width: 800px) {
+.connect {
+    padding-left: 5%;
+    }
+}
+
 .connect {
     padding-left: 30%;
     padding-top: 5%;
     text-align: left;
     color: #C72A00;
-}
-
-.connect-message {
-    padding-left: 30%;
-    padding-top: 5%;
 }
 
 form {
@@ -201,4 +202,4 @@ button {
     background-color: #C4C0BE;
     opacity: 0.60;
     padding: 10px;
-    }
+}
