@@ -1,10 +1,10 @@
 body {
-    background-image: url(so-white.png);
-    padding: 2%;
+    background-image: url(handmadepaper.png);    
     color:black;
     font-family: 'Inconsolata', monospace;
     }
 
+/*Nav*/
 .topnav {
     display: flex;
     flex-direction: row;
@@ -15,75 +15,183 @@ body {
     align-content: center;
     }
     
-ul {
+.topnav-ul {
     list-style-type: none;
+    font-size: 18px;
     margin: 0;
-    padding: 0;
     }
 
-li {
-        display: inline;
-        align-content: center;
-        padding: 8px;
+.topnav-home, .topnav-about, .topnav-experience, .topnav-contact {
+    display: inline;
+    align-content: center;
+    padding: 8px;
     }
 
 a {
     color: black;
-}
+    }
+
+a:hover {
+    color: #C72A00;
+    }
 
 a:link {
     text-decoration: none;
     }
 
-h1 {
+/*home*/
+.home-h1 {
     padding-top: 10%;
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 25%;
+    padding-right: 25%;
     text-align: center;
     font-size: 3em;
     color: #C72A00;
     }
-
-h2 {
-    padding-left: 35%;
-    padding-right: 35%;
+    
+.home-h2 {
+    padding-left: 25%;
+    padding-right: 25%;
     text-align: center;
     font-size: 1.5em;
     }
-
+    
 .work {
     padding-left: 25%;
     padding-right: 25%;
-    padding-bottom: 5%;
+    padding-bottom: 15%;
     text-align: center;
     line-height: 2em;
     color: black;
     }
 
+/*About*/
 img {
     width: 70%;
+    max-width: 100%;
+    height: auto;
     padding-top: 5%;
     padding-right: 15%;
     padding-left: 15%;
 }
 
 .about-title {
-    padding-top: 3%;
-    width: 70%;
-    padding-right: 15%;
+    color: #C72A00;
     padding-left: 15%;
-    text-align: justify;
 }
 
 .about {
     width: 70%;
+    padding-top: 1%;
     padding-right: 15%;
     padding-left: 15%;
     padding-bottom: 5%;
 }
 
-a:hover {
-    color: gray;
+/*experience*/
+.sidebar {
+    float: left;
+    width: 300px;
+    height: 1137px;
+    background-color: #FCF5F2;
+    padding-top: 40px;
+    padding-right: 15px;
+    padding-left: 40px;
+    line-height: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+    .sidebar {
+        width: 250px;
+        padding-right: 25px;
+    }
+    .container {
+        flex: 250px;
+        padding-right: 25px;
+    }
+}
+
+.experience-h1 {
+    color: #C72A00;
+ }
+
+ .education {
+    width: 200px;
+ }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    padding-top:45px;
+    padding-left: 65px;
+}
+
+.experience-tfpc {
+    padding-bottom: 100px;
+}
+
+/*contact*/
+@media (max-width: 800px) {
+.connect {
+    padding-left: 5%;
+    }
+}
+
+.connect {
+    padding-left: 30%;
+    padding-top: 5%;
+    text-align: left;
+    color: #C72A00;
+}
+
+form {
+   margin: 50px auto;
+   width: 450px;
+   height: 500px;
+   padding-top: 25px;
+   padding-right: 60px;
+   border: 1px solid black;
+   background: #EFEDEC;
+   opacity: .60;
+   font-size: 20px;
+}
+
+input, label {
+    display: flex;
+    width: 300px;
+    margin: 15px;
+    align-items: center;
+    border: none;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.name, .email, .message, .button {
+    list-style-type: none;
+}
+
+textarea {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    margin: 15px;
+    text-decoration: none;
+}
+
+input:invalid {
+    border: 1px red;
+}
+
+input:valid {
+    border: 1px green;
+}
+
+button {
+   font-size: 15px;
+   font-weight: bold;
+   margin-left: 15px;
 }
 
 .footer {
