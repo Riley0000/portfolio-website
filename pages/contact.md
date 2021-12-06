@@ -8,7 +8,7 @@ permalink: /contact.html
 <h1 class="connect">Let's Connect</h1>
 
 <form action="" method="POST">
-    <ul>
+    <ul class="form">
         <li class="name">
             <label for="name">Name:</label>
             <input type="text" id="name" name="user_name" required minlength="5">
