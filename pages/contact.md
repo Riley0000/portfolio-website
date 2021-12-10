@@ -7,7 +7,7 @@ permalink: /contact.html
 
 <h1 class="connect">Let's Connect</h1>
 
-<form action="" method="POST">
+<form action="" method="POST" data-netlify="true">
     <ul class="form">
         <li class="name">
             <label for="name">Name:</label>
