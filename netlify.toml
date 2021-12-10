@@ -1,0 +1,2 @@
+[template]
+    incoming-hooks = ["Ghost"]
