@@ -1,35 +1,20 @@
-require("dotenv").config();
+require('dotenv').config();
 
-const result = dotenv.config()
+const GhostContentAPI = require('@tryghost/content-api');
 
-if (result.error) {
-  throw result.error
-}
-
-console.log(result.parsed)
-
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("style.css");
-};
-
-const ghostContentAPI = require("@tryghost/content-api");
-
-const api = new ghostContentAPI({
+const api = new GhostContentAPI({
   url: process.env.GHOST_API_URL,
   key: process.env.GHOST_CONTENT_API_KEY,
   version: "v2"
 });
 
-const db = require('db')
-db.connect({
-  host: process.env.DB_HOST,
-  username: process.env.DB_USER,
-  password: process.env.DB_PASS
-})
-
 const stripDomain = url => {
   return url.replace(process.env.GHOST_API_URL, "");
+};
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("style.css");
 };
 
 config.addCollection("docs", async function(collection) {
