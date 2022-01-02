@@ -1,6 +1,6 @@
 ---
 layout: layouts/pages.njk
-permalink: /about.html
+permalink: 
 ---
 <img src="images/transfigure-team.jpg" alt="Transfigure Print Co. team, 2020"> 
 <h2 class="about-title">About</h2>

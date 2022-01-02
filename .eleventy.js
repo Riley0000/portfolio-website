@@ -1,11 +1,11 @@
-require('dotenv').config();
+require("dotenv").config();
 
-const GhostContentAPI = require('@tryghost/content-api');
+const ghostContentAPI = require("@tryghost/content-api");
 
-const api = new GhostContentAPI({
+const api = new ghostContentAPI({
   url: process.env.GHOST_API_URL,
   key: process.env.GHOST_CONTENT_API_KEY,
-  version: "v2"
+  version: "v3"
 });
 
 const stripDomain = url => {
@@ -15,9 +15,7 @@ const stripDomain = url => {
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("style.css");
-};
-
-config.addCollection("docs", async function(collection) {
+  eleventyConfig.addCollection("docs", async function(collection) {
   collection = await api.pages
     .browse({
       include: "authors",
@@ -40,7 +38,7 @@ config.addCollection("docs", async function(collection) {
 });
 
   // Get all tags
-  config.addCollection("tags", async function(collection) {
+  eleventyConfig.addCollection("tags", async function(collection) {
     collection = await api.tags
       .browse({
         include: "count.posts",
@@ -73,3 +71,5 @@ config.addCollection("docs", async function(collection) {
 
     return collection;
   });
+
+};
