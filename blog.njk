@@ -2,10 +2,14 @@
 layout : layouts/pages.njk
 title: Blog 
 Description: Samples. Writings. Photography.
-
+permalink: /posts/
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
 ---
 
 <h1>{{title}}</h1>
-
+{% set postslist = collections.posts %}
 {% include "postslist.njk" %}
 

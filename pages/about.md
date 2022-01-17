@@ -11,7 +11,7 @@ From Ferndale, Michigan—near Detroit—Riley earned an undergraduate degree in
 
 Riley has had the joy of learning several skills from this approach to work, from screen printing and driving zambonis to grant writing, strategizing magazine editorials, and most recently, diving into the complex world of front-end web development. Besides work, Riley tries to lead a sustainable lifestyle and enjoys reading nature and climate focused non-fiction. Their favorite places on Earth include the Bay of Fundy's northern coast, Marquette, Michigan, and Copenhagen. They are a home-based aerialist living in Chicago.
 
-As an aspiring information professional in the archival and library sciences, Riley hopes to utilize all mediums of our historical record to help every person better grasp the intricacies of life, human wellness, and the natural world. Hello
+As an aspiring information professional in the archival and library sciences, Riley hopes to utilize all mediums of our historical record to help every person better grasp the intricacies of life, human wellness, and the natural world.
 
 Photo: Riley (left) and Bailey Sell of Transfigure Print Co, 2020. By Elation Studio
 </div>
