@@ -52,7 +52,7 @@ body {
     margin: 0;
     }
 
-.topnav-home, .topnav-about, .topnav-experience, .topnav-contact {
+.topnav-home, .topnav-about, .topnav-experience, .topnav-contact, .topnav-blog {
     display: inline;
     align-content: center;
     padding: 8px;
