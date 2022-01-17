@@ -52,7 +52,7 @@ body {
     margin: 0;
     }
 
-.topnav-home, .topnav-about, .topnav-experience, .topnav-contact {
+.topnav-home, .topnav-about, .topnav-experience, .topnav-contact, .topnav-blog {
     display: inline;
     align-content: center;
     padding: 8px;
@@ -175,7 +175,6 @@ aside {
 
 form {
    margin: 50px auto;
-   width: 50%;
    height: 450px;
    padding-top: 25px;
    padding-right: 15px;

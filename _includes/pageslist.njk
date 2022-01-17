@@ -1,8 +1,10 @@
 <ul>
     {% for page in pageslist%}
     <li>
-        <a href= "{{ page.url | url }}">{{ page.data.title }}</a>
-    
+        <a href= "{{ page.url | url }}">{{ pages.data.title }}</a>
     </li>
+    <span>
+        {{ pages.data.description }}
+    </span>
     {%endfor%}
 </ul>
