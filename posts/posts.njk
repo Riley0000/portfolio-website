@@ -1,0 +1,22 @@
+---
+layout : layouts/posts.njk
+title: Blog 
+description: The Interlude
+permalink: "/posts/{{post.url}}"
+tag: post
+pagination:
+    data: collections.posts
+    size: 1
+    alias: post
+---
+
+
+<h1>{{post.title}}</h1>
+<img src="{{post.feature_image}}" alt="{{feature.image.alt}}">
+{{ post.html | safe }}
+
+
+
+
+
+
