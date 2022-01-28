@@ -235,3 +235,7 @@ button {
     opacity: 0.60;
     padding: 10px;
 }
+
+ul, li {
+    list-style-type: none;
+}
