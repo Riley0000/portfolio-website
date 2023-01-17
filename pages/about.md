@@ -11,7 +11,7 @@ Raised in Ferndale, Michigan—near Detroit—Riley earned an undergraduate degr
 
 Fueled by a natural curiosity and a highly adaptable, hands-on approach to work, Riley has had the joy of learning several unique skills, from screen printing and grant writing to strategizing magazine editorials and Search Engine Optimization. 
 
-Besides work, Riley tries to lead a sustainable lifestyle and enjoys reading nature and climate focused non-fiction. Their favorite places on Earth include the Bay of Fundy's northern coast, Marquette, Michigan, and Copenhagen. They are a home-based aerialist living in Chicago.
+Besides work, Riley tries to lead a sustainable lifestyle and enjoys reading nature and climate focused non-fiction. Their favorite places on Earth include the Bay of Fundy's northern coast, Marquette, Michigan, and Copenhagen. They are a home-based aerialist living in Chicago, where they also volunteer at a local queer-centered archive.
 
 As an aspiring information professional in the archival and library sciences, Riley hopes to utilize all mediums of our historical record to help every person better grasp the intricacies of life, human wellness, and the natural world.
 
