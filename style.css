@@ -120,6 +120,12 @@ img {
     padding-bottom: 5%;
 }
 
+/*blog*/
+.blog {
+    size: 5em;
+    font-weight: bold;
+}
+
 /*experience*/
 body {
     width: 90%;
