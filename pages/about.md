@@ -5,13 +5,16 @@ permalink:
 <img src="/images/transfigure-team.jpg" alt="Transfigure Print Co. team, 2020"> 
 <h2 class="about-title">About</h2>
 <div class="about">
-    Always a contemplator and now an aspiring information professional, Riley takes every opportunity to savor pieces of the informational deluge we consume on a daily basis; to slow down and pick things apart with holistic attention.
+    Always a contemplator and now an aspiring information professional, Riley takes every opportunity to savor pieces of the informational flood we consume on a daily basis; to slow down and pick things apart with holistic attention.
 
-From Ferndale, Michigan—near Detroit—Riley earned an undergraduate degree in Writing from Grand Valley State University and stepped into studies such as web development, multi-level editing, creative non-fiction, and magazine writing. They went on to receive a faculty-funded Writing Major Scholarship and a Distinction in Writing award upon graduation. In years since, Riley has gone to work in print and media publishing as well as in small, craft-focused businesses, utilizing a highly adaptable, hands-on attitude and a people-first focus that often find homes within passionate, creative teams.
+Raised in Ferndale, Michigan—near Detroit—Riley earned an undergraduate degree in Writing from Grand Valley State University. Post-graduation in 2018, Riley has pursued interests in areas such as web development, multi-level editing, digital marketing, and magazine writing, through both professional and informal work positions. As of 2022, they are earning an MLIS from the University of Illinois at Urbana-Champaign.
 
-Riley has had the joy of learning several skills from this approach to work, from screen printing and driving zambonis to grant writing, strategizing magazine editorials, and most recently, diving into the complex world of front-end web development. Besides work, Riley tries to lead a sustainable lifestyle and enjoys reading nature and climate focused non-fiction. Their favorite places on Earth include the Bay of Fundy's northern coast, Marquette, Michigan, and Copenhagen. They are a home-based aerialist living in Chicago.
+Fueled by a natural curiosity and a highly adaptable, hands-on approach to work, Riley has had the joy of learning several unique skills, from screen printing and grant writing to strategizing magazine editorials and Search Engine Optimization. 
+
+Besides work, Riley tries to lead a sustainable lifestyle and enjoys reading nature and climate focused non-fiction. Their favorite places on Earth include the Bay of Fundy's northern coast, Marquette, Michigan, and Copenhagen. They are a home-based aerialist living in Chicago.
 
 As an aspiring information professional in the archival and library sciences, Riley hopes to utilize all mediums of our historical record to help every person better grasp the intricacies of life, human wellness, and the natural world.
+
 
 Photo: Riley (left) and Bailey Sell of Transfigure Print Co, 2020. By Elation Studio
 </div>

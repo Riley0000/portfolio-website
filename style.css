@@ -142,7 +142,11 @@ aside {
 
 .experience-title {
     color: #C72A00;
-    font-size: 2em;
+    font-size: 3em;
+}
+
+.skills {
+    font-weight: bold;
 }
 
 article {
