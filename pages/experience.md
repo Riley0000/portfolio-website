@@ -16,12 +16,16 @@ permalink:
                     <p>Created a new B2B email marketing structure and content calendar that yielded consistent open rates above 40% and a 4% increase in wholesale revenue in 2022.</p>
                     <p>Expanded this newsletter structure by segmenting audiences based on characteristics such as customer relationship duration, lapsed sales, seasonal events, and type of goods purchased.</p>
                     <p>Utilize website performance tools such as Google Analytics, SEMrush, Google Lighthouse, and Moz Suite to monitor website analytics and make content decisions accordingly. </p>
+                <h3>SEO Assistant: Hyperion Web</h3>
+                    <p>Grand Rapids, MI. June 2022—current</p>
+                    <p>Manage monthly reporting duties for five small business clients, from gathering Google Business and Google Analytics insights to drafting and sending reports.</p>
+                    <p>Create new Moz Local profiles and merge them with Google Buiness and Facebook profiles to ensure streamlined, essential business info across search engines and platforms.</p>
                 <h3>English Editor: MDPI</h3>
                     <p>Basel, Switzerland. January 2022—September 2022</p>
                     <p>Copyedited 6,000- to 20,000-word scientific journal manuscripts with close attention to grammar, structure, readability, and house rules.</p>
                 <h3>Freelance Writer: Leon Speakers</h3>
                     <p>Ann Arbor, Michigan. January 2022—September 2022</p>
-                    <p>Created blog posts and press releases for the artisanal audio company's client base and distributors that were built a mindful attention to brand voice, engaging styles, and SEO-focused interlinking.</p>
+                    <p>Created blog posts and press releases for the artisanal audio company's client base and distributors that were built on a mindful attention to brand voice, engaging styles, and SEO-focused interlinking.</p>
                 <h3>Content Strategist: SVK Media & Publishing</h3>
                     <p>Grand Rapids, MI. June 2017—September 2021</p> 
                     <p>Ideated, wrote, and edited hundreds of print and digital features centering subjects like sustainable architecture, industrial design, culinary arts, and textile design. </p>
@@ -59,13 +63,13 @@ permalink:
                     <p class="skills">Interviewing and transcription
                         <ul>
                             <li>
-                            Architects and designers
+                            Architects and designers.
                             </li>
                             <li>
-                            Start-up businesses and non-profits
+                            Start-up businesses and non-profits.
                             </li>
                             <li>
-                            Chefs and Brewers
+                            Chefs and brewers.
                             </li>
                         </ul>
                     </p>
