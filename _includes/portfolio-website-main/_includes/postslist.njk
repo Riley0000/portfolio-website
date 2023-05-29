@@ -1,0 +1,8 @@
+<ul>
+{% for post in collections.posts %}
+<li>
+    <img src="{{post.feature_image}}" alt="">
+    <a href="/posts{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
